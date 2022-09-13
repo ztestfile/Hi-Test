@@ -7,8 +7,8 @@
       },
 
 {
-         "name": "SG-DtacNoPro-VIP2",
-         "url": "https://raw.githubusercontent.com/sansoe2022/file-update-/main/DtacNoPro_VIP1.ovpn"
+         "name": "CA2-DtacNoPro-VIP2",
+         "url": "https://raw.githubusercontent.com/HubZau/Hi-Test/main/cazau.ovpn"
       },
 
 {
@@ -30,3 +30,4 @@
    "title":"Do you want to update?",
    "version": 1
 }
+
