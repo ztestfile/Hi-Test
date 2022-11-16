@@ -2,8 +2,8 @@
    "files": [  
 
 {
-         "name": "CANADA-DtacNoPro-VIP",
-         "url": "https://raw.githubusercontent.com/HubZau/Hi-Test/main/cazau.ovpn"
+         "name": "SG6-DtacNoPro-VIP",
+         "url": "https://raw.githubusercontent.com/HubZau/Hi-Test/main/SG6-vpn-1194.ovpn"
       },
 
 {
@@ -12,17 +12,15 @@
       },
 
 {
-         "name": "SG-TrueNoPro-FREE",
+         "name": "SG1-TrueNoPro-FREE",
          "url": "https://raw.githubusercontent.com/sansoe2022/New-free-ovpn/main/SG-TrueNoPro-FREE.ovpn"
       },
 
 
 {
-         "name": "SG-TrueNoPro-FREE",
+         "name": "SG2-TrueNoPro-FREE",
          "url": "https://raw.githubusercontent.com/sansoe2022/file-update-/main/DtacNoPro_VIP2.ovpn"
       }
-
-
 
 
    ],
