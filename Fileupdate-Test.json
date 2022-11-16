@@ -7,7 +7,7 @@
       },
 
 {
-         "name": "JaPan-DtacNoPro-VIP2",
+         "name": "JaPan1-DtacNoPro-VIP2",
          "url": "https://raw.githubusercontent.com/HubZau/Hi-Test/main/japan.ovpn"
       },
 
@@ -23,14 +23,23 @@
       },
 
 {
-         "name": "CANADA2-DtacNoPro-VIP",
+         "name": "CANADA-DtacNoPro-VIP",
          "url": "https://raw.githubusercontent.com/HubZau/Hi-Test/main/cazau.ovpn"
       },
 
+
+   ],
+"message":"🚀 Update config version - 2 \n📆 Latest update - August 29 2022\n \n📌What's new 🔥 \n• Added new Singapore server 2🇸🇬 \n•စင်ကာပူဆာဗာ\n• IS ဆာဗာ \n \n📌VIP account \n• 1 month - 40 baht 💰 \n• Data transfer - Unlimited✅ \n• Unlimited time - Yes💯 \n• 1 Device - 1 account🔒 \nContact me👤👇\nhttps://m.me/Mr.Myits  \n \nအားပေးတဲ့အတွက် ကျေးဇူးတင်ပါတယ်❤️",
+   "title":"Do you want to update?",
+   "version": 2
+}
+
+
 {
-         "name": "JaPan-DtacNoPro-VIP2",
+         "name": "JaPan2-DtacNoPro-VIP2",
          "url": "https://raw.githubusercontent.com/HubZau/Hi-Test/main/japan.ovpn"
       },
+
 
 {
          "name": "SG3-TrueNoPro-FREE",
@@ -42,10 +51,4 @@
          "name": "SG6-TrueNoPro-FREE",
          "url": "https://raw.githubusercontent.com/HubZau/Hi-Test/main/SG6-vpn-1194.ovpn"
 
-}
-
-   ],
-"message":"🚀 Update config version - 6 \n📆 Latest update - August 29 2022\n \n📌What's new 🔥 \n• Added new Singapore server 2🇸🇬 \n•စင်ကာပူဆာဗာ\n• IS ဆာဗာ \n \n📌VIP account \n• 1 month - 40 baht 💰 \n• Data transfer - Unlimited✅ \n• Unlimited time - Yes💯 \n• 1 Device - 1 account🔒 \nContact me👤👇\nhttps://m.me/Mr.Myits  \n \nအားပေးတဲ့အတွက် ကျေးဇူးတင်ပါတယ်❤️",
-   "title":"Do you want to update?",
-   "version": 6
-}
+},
