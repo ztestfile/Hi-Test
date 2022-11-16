@@ -2,12 +2,12 @@
    "files": [  
 
 {
-         "name": "SG6-DtacNoPro-VIP",
+         "name": "SG6-DtacNoPro",
          "url": "https://raw.githubusercontent.com/HubZau/Hi-Test/main/SG6-vpn-1194.ovpn"
       },
 
 {
-         "name": "JaPan-DtacNoPro-VIP2",
+         "name": "JaPan-DtacNoPro",
          "url": "https://raw.githubusercontent.com/HubZau/Hi-Test/main/japan.ovpn"
       },
 
@@ -20,7 +20,7 @@
 {
          "name": "SG2-TrueNoPro-FREE",
          "url": "https://raw.githubusercontent.com/sansoe2022/file-update-/main/DtacNoPro_VIP2.ovpn"
-      }
+      },
 
 
    ],
