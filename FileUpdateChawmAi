@@ -23,43 +23,24 @@
       },
 
 {
-         "name": "FILENAE",
-         "url": "FILE"
+         "name": "Fraenc",
+         "url": "https://raw.githubusercontent.com/HubZau/Hi-Test/main/France45day_tcp.ovpn"
+      },
+
+{
+         "name": "Canada",
+         "url": "https://raw.githubusercontent.com/HubZau/Hi-Test/main/cazau.ovpn"
+      },
+
+{
+         "name": "Japan3",
+         "url": "https://raw.githubusercontent.com/HubZau/Hi-Test/main/jp3-vpngate_219.100.37.110_tcp_443.ovpn"
       },
 
 
 {
-         "name": "FILENAE",
-         "url": "FILE"
-      },
-
-{
-         "name": "FILENAE",
-         "url": "FILE"
-      },
-
-{
-         "name": "FILENAE",
-         "url": "FILE"
-      },
-
-{
-         "name": "FILENAE",
-         "url": "FILE"
-      },
-
-{
-         "name": "FILENAE",
-         "url": "FILE"
-      },
-{
-         "name": "FILENAE",
-         "url": "FILE"
-      },
-
-{
-         "name": "FILENAE",
-         "url": "FILE"
+         "name": "VPNgate",
+         "url": "https://raw.githubusercontent.com/HubZau/Hi-Test/main/vpngatetcp_443.ovpn"
       },
 
 
